@@ -16,14 +16,23 @@
  
  ## قم بعمل fork لهذا المشروع
 
+![image](https://user-images.githubusercontent.com/7741673/178719209-00223a0e-d675-4ffb-8343-0fa524c02f90.png)
+
+
 اضغط على زر fork الموجود أعلى هذه الصفحة على على اليمين، سيؤدي ذلك إلى إنشاء نسخة من هذا المشروع على حسابك الخاص في github
 
 
 
 ## اسستنسخ هذا المشروع على جهازك الخاص
 
+![image](https://user-images.githubusercontent.com/7741673/178729727-4c720365-a001-4944-92b2-af8379ec1940.png)
+
+
 انقر على زر clone ثم اختر copy to clipboard
 سيؤدي ذلك لنسخ رابط المستودع
+
+![image](https://user-images.githubusercontent.com/7741673/178729777-55c25ce7-7048-4b6c-844b-e89d02eb05ea.png)
+
 
 
 افتح الطرفية الأوامر (command line Terminal) واكتب الكود لتال:
