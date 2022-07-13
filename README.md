@@ -142,13 +142,13 @@ git fetch upstream
 
 الآن، قم بدمج التحديثات الجديدة من فرع المشروع الأصلي إلى فرعك الرئيسي
 ```
-git rebase upstream/master
+git rebase upstream/main
 ```
 
 أخيراً، قم برفع التغييرات لفرعك الرئيسي
 
 ```
-git push origin master
+git push origin main
 ```
 
 
